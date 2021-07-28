@@ -31,6 +31,13 @@ For the total solar eclipse of July 29, 1878 Mitchell and five assistants travel
 Maria Mitchell working in Nantucket. 
 <param ve-entity title="Massachusetts" eid="Q771" fill="#92086D" marker-symbol="user">
 <param ve-map active title="Maria Mitchell's Home" center="Q49149" zoom="10" basemap="Esri_WorldGrayCanvas">
+<param ve-map-marker
+       url="https://leafletjs.com/examples/custom-icons/leaf-green.png"
+       coords="Q69477981"
+       size="38, 95"
+       iconAnchor="22, 94"
+       shadowUrl="https://leafletjs.com/examples/custom-icons/leaf-shadow.png"
+       shadowSize="50, 64">
 <param ve-map-layer geojson active title="Circumference of Maria's Travels" url="badnantuckettemplate.json">
-<param ve-map-layer geojson active title="Where Maria Worked" center="Q69477981" show-labels marker-type="circle" radius="8" url="atheneum.json">
+<param ve-map-layer geojson active title="Where Maria Worked" url="atheneum.json">
 
