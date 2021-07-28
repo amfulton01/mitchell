@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Telescope gifted to Mitchell by group of women ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/b869a718c105a7caddf424083c9b74c91b2f4fbefa103b7b4127fb547996a094",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:464.1116638183594,66.89412689208984,198.90145874023438,380.6542434692383"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#8e19fea5-18df-4e9b-b065-3a3acffafcfe"
+  }
+]
