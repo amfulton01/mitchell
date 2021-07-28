@@ -23,7 +23,7 @@ Mitchell often involved her students with her astronomical observations in both 
 <param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/6/60/Mitchell_Maria_desk.jpg" label="Maria Mitchell with telescope" description="MM Telescope" attribution="Photographer" license="No Known Copyright">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/4/44/Maria_Mitchell%27s_telescope2.jpg" label="Mitchell Telescope" description="Mitchell Telescope Technical" license="No Known Copyright">
 
-For the total solar eclipse of July 29, 1878 Mitchell and five assistants traveled with a 4-inch telescope from <span eid="Q2093794">Vassar College</span> to Denver for observations.
+For the total solar eclipse of July 29, 1878 Mitchell and five assistants traveled with a 4-inch telescope from Vassar College to Denver for observations.
 <param ve-entity eid="Q2093794">
 <param ve-map basemap="Esri_WorldGrayCanvas" center="Q2093794">
 <span data-mouseover-map-flyto="39.71965142931648, -104.96432171752019, 10">Denver</span> 
