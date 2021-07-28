@@ -25,7 +25,7 @@ Mitchell often involved her students with her astronomical observations in both 
 
 For the total solar eclipse of July 29, 1878 Mitchell and five assistants traveled with a 4-inch telescope from Vassar College to Denver for observations.
 <param ve-entity eid="Q2093794">
-<param ve-map basemap="Esri_WorldGrayCanvas" center="Q2093794">
+<param ve-map basemap="Esri_WorldGrayCanvas" center="Q2093794" zoom="12">
 <span data-mouseover-map-flyto="39.71965142931648, -104.96432171752019, 10">Denver</span> 
 
 
