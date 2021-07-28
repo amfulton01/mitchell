@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Maria Mitchell" 
-       author="Allen Fulton"
+       author="Ally Fulton"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Maria_Mitchell.jpg/506px-Maria_Mitchell.jpg" 
        layout="vertical">  
 
