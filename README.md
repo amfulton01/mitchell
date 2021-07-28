@@ -19,9 +19,13 @@ She was born on August 1, 1818, in Nantucket, (which is 30 miles away from Cape 
        circle="true"
        >
 
-Mitchell often involved her students with her astronomical observations in both the field and the Vassar College Observatory
+Mitchell often involved her students with her astronomical observations in both the field and the Vassar College Observatory.
 <param ve-compare curtain url="https://upload.wikimedia.org/wikipedia/commons/6/60/Mitchell_Maria_desk.jpg" label="Maria Mitchell with telescope" description="MM Telescope" attribution="Photographer" license="No Known Copyright">
 <param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/4/44/Maria_Mitchell%27s_telescope2.jpg" label="Mitchell Telescope" description="Mitchell Telescope Technical" license="No Known Copyright">
+
+For the total solar eclipse of July 29, 1878 Mitchell and five assistants traveled with a 4-inch telescope from Vassar to Denver for observations.
+<span data-mouseover-map-flyto="41.6861889177551, -73.8973493463386, 10">Vassar College</span> 
+
 
 
 
