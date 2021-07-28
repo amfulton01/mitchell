@@ -32,6 +32,5 @@ Maria Mitchell working in Nantucket.
 <param ve-entity title="Massachusetts" eid="Q771" fill="#92086D" marker-symbol="user">
 <param ve-map title="Maria Mitchell's Home" center="Q49149" zoom="10" basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson active title="Circumference of Maria's Travels" url="badnantuckettemplate.json">
-
-Q69477981
+<param ve-map-layer geojson active title="Where Maria Worked" url="atheneum.json">
 
