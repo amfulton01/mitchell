@@ -13,7 +13,7 @@ Maria Mitchell (/məˈraɪə/) August 1, 1818 – June 28, 1889) was an American
 She was born on August 1, 1818, in Nantucket, (which is 30 miles away from Cape Cod), Massachusetts to Lydia Coleman Mitchell, a library worker, and William Mitchell, a schoolteacher and amateur astronomer. The third of ten children, Mitchell and her siblings were raised in the Quaker religion, a faith with tenets valuing education and sensible work. Her father educated all his children about nature and astronomy and her mother’s employment at two libraries gave them access to a variety of knowledge. Mitchell particularly showed both an interest in and a talent for astronomy and advanced mathematics. Her father taught her to operate a number of astronomical instruments including chronometers, sextants, simple refracting telescopes, and Dolland telescopes. Mitchell often assisted her father in his work with local seamen and in his observations of the night sky.
 <param ve-map basemap="Stamen_Watercolor" center="Q49149" zoom="12" prefer-geojson> 
 <param ve-map-marker
-       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/NantucketAtheneum.JPG"
+       url="https://www.loc.gov/rr/print/res/114_habs.html"
        coords="41.28440389743972, -70.09831941856025"
        size="129, 170"
        circle="true"
