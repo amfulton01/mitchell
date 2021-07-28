@@ -6,8 +6,14 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Maria_Mitchell.jpg/506px-Maria_Mitchell.jpg" 
        layout="vertical">  
 
-Maria Mitchell (/məˈraɪə/) August 1, 1818 – June 28, 1889) was an American astronomer, librarian, naturalist, and educator.
+Maria Mitchell (/məˈraɪə/) August 1, 1818 – June 28, 1889) was an American astronomer, librarian, naturalist, and educator. In 1847, she discovered a comet named 1847 VI (modern designation C/1847 T1) that was later known as Miss Mitchell’s Comet in her honor <span data-click-image-zoomto="213,127,277,156">Miss Mitchell's Comet</span>. She won a gold medal prize for her discovery, which was presented to her by King Christian VIII of Denmark in 1848. Mitchell was the first internationally known woman to work as both a professional astronomer and a professor of astronomy after accepting a position at Vassar College in 1865. She was also the first woman elected Fellow of the American Academy of Arts and Sciences and the American Association for the Advancement of Science.
 <param ve-image fit="contain" label="Mitchell" description="astronomer" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/2/23/Maria_Mitchell.jpg">
 
-In 1847, she discovered a comet named 1847 VI (modern designation C/1847 T1) that was later known as “Miss Mitchell’s Comet” in her honor. She won a gold medal prize for her discovery, which was presented to her by King Christian VIII of Denmark in 1848. Mitchell was the first internationally known woman to work as both a professional astronomer and a professor of astronomy after accepting a position at Vassar College in 1865. She was also the first woman elected Fellow of the American Academy of Arts and Sciences and the American Association for the Advancement of Science.
-<param ve-map center="41.28440389743972, -70.09831941856025" zoom="8" prefer-geojson>  
+She was born on August 1, 1818, in Nantucket, (which is 30 miles away from Cape Cod), Massachusetts to Lydia Coleman Mitchell, a library worker, and William Mitchell, a schoolteacher and amateur astronomer. The third of ten children, Mitchell and her siblings were raised in the Quaker religion, a faith with tenets valuing education and sensible work. Her father educated all his children about nature and astronomy and her mother’s employment at two libraries gave them access to a variety of knowledge. Mitchell particularly showed both an interest in and a talent for astronomy and advanced mathematics. Her father taught her to operate a number of astronomical instruments including chronometers, sextants, simple refracting telescopes, and Dolland telescopes. Mitchell often assisted her father in his work with local seamen and in his observations of the night sky.
+<param ve-map center="41.28440389743972, -70.09831941856025" zoom="8" prefer-geojson> 
+
+
+
+
+
+
