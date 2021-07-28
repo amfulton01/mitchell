@@ -29,6 +29,6 @@ For the total solar eclipse of July 29, 1878 Mitchell and five assistants travel
 <span data-mouseover-map-flyto="39.71965142931648, -104.96432171752019, 10">Denver</span> 
 
 Maria Mitchell working in Nantucket. 
-<param ve-map center= "Q771" zoom="4">
+<param ve-map center= "Q771" zoom="12">
 <param ve-map-layer geojson title="Maria's hometown" url="badnantuckettemplate.json">
 
