@@ -13,7 +13,7 @@ Maria Mitchell (/məˈraɪə/) August 1, 1818 – June 28, 1889) was an American
 She was born on August 1, 1818, in Nantucket, (which is 30 miles away from Cape Cod), Massachusetts to Lydia Coleman Mitchell, a library worker, and William Mitchell, a schoolteacher and amateur astronomer. The third of ten children, Mitchell and her siblings were raised in the Quaker religion, a faith with tenets valuing education and sensible work. Her father educated all his children about nature and astronomy and her mother’s employment at two libraries gave them access to a variety of knowledge. Mitchell particularly showed both an interest in and a talent for astronomy and advanced mathematics. Her father taught her to operate a number of astronomical instruments including chronometers, sextants, simple refracting telescopes, and Dolland telescopes. Mitchell often assisted her father in his work with local seamen and in his observations of the night sky.
 <param ve-map basemap="Stamen_Watercolor" center="Q49149" zoom="12" prefer-geojson> 
 <param ve-map-marker
-       url="https://www.loc.gov/rr/print/res/114_habs.html"
+       url="https://upload.wikimedia.org/wikipedia/commons/c/c2/NantucketAtheneum.JPG"
        coords="41.28440389743972, -70.09831941856025"
        size="129, 170"
        circle="true"
@@ -29,9 +29,9 @@ For the total solar eclipse of July 29, 1878 Mitchell and five assistants travel
 <span data-mouseover-map-flyto="39.71965142931648, -104.96432171752019, 10">Denver</span> 
 
 Maria Mitchell working in Nantucket. 
-<param ve-entity title="Nantucket" eid="Q49149" fill="#92086D" marker-symbol="user">
-<param ve-map title="Maria Mitchell's Home" center="Q69477981" zoom="12" basemap="Esri_WorldPhysical">
+<param ve-entity title="Massachusetts" eid="Q771" fill="#92086D" marker-symbol="user">
+<param ve-map title="Maria Mitchell's Home" center="Q49149" zoom="10" basemap="Esri_WorldPhysical">
+<param ve-map-layer geojson active title="Circumference of Maria's Travels" url="badnantuckettemplate.json">
 
-<param ve-map-layer geojson active title="Nantucket Island" url="badnantuckettemplate.json">
-
+Q69477981
 
