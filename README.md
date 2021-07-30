@@ -3,7 +3,7 @@
 <param ve-config 
        title="Maria Mitchell" 
        author="Ally Fulton"
-       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Maria_Mitchell.jpg/506px-Maria_Mitchell.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/a/ac/The_town_of_Sherburne_in_the_island_of_Nantucket_%28NYPL_b12610613-422499%29.jpg"
        eid=Q239229
        layout="vertical">  
 
